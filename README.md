@@ -34,13 +34,9 @@ Point - NOAA
 
 What is the population density for each coast?
 	Census.gov
-API key:67c8522085002f25636bbc2c0ca355428c20cb55
-API key owner:kaleah.french@gmail.com
 
 What is the total estimated GDP for each coast?
 	https://apps.bea.gov/API/signup/index.cfm
-API key: ‘2204FD53-E8BC-445B-94B0-DF298AD2EF36’
-API key owner: chels.thompson39@gmail.com
 
 What states have environmental laws or regulations that could impact these results?
 	https://www.epa.gov/beach-tech/laws-protect-our-oceans
