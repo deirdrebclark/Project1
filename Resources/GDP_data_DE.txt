@@ -1,0 +1,135 @@
+{
+    "BEAAPI": {
+        "Request": {
+            "RequestParam": [
+                {
+                    "ParameterName": "LINECODE",
+                    "ParameterValue": "1"
+                },
+                {
+                    "ParameterName": "FREQUENCY",
+                    "ParameterValue": "A"
+                },
+                {
+                    "ParameterName": "DATASETNAME",
+                    "ParameterValue": "REGIONAL"
+                },
+                {
+                    "ParameterName": "TABLENAME",
+                    "ParameterValue": "SAGDP2N"
+                },
+                {
+                    "ParameterName": "GEOFIPS",
+                    "ParameterValue": "DE"
+                },
+                {
+                    "ParameterName": "METHOD",
+                    "ParameterValue": "GETDATA"
+                },
+                {
+                    "ParameterName": "USERID",
+                    "ParameterValue": "2204FD53-E8BC-445B-94B0-DF298AD2EF36"
+                },
+                {
+                    "ParameterName": "YEAR",
+                    "ParameterValue": "LAST5"
+                }
+            ]
+        },
+        "Results": {
+            "Statistic": "Gross domestic product (GDP) by state: All industry total",
+            "UnitOfMeasure": "Millions of current dollars",
+            "PublicTable": "SAGDP2N All industry total",
+            "UTCProductionTime": "2020-01-27T20:58:00.287",
+            "NoteRef": " ",
+            "Dimensions": [
+                {
+                    "Name": "Code",
+                    "DataType": "string",
+                    "IsValue": "0"
+                },
+                {
+                    "Name": "GeoFips",
+                    "DataType": "string",
+                    "IsValue": "0"
+                },
+                {
+                    "Name": "GeoName",
+                    "DataType": "string",
+                    "IsValue": "0"
+                },
+                {
+                    "Name": "TimePeriod",
+                    "DataType": "string",
+                    "IsValue": "0"
+                },
+                {
+                    "Name": "DataValue",
+                    "DataType": "numeric",
+                    "IsValue": "1"
+                },
+                {
+                    "Name": "CL_UNIT",
+                    "DataType": "string",
+                    "IsValue": "0"
+                },
+                {
+                    "Name": "UNIT_MULT",
+                    "DataType": "numeric",
+                    "IsValue": "0"
+                }
+            ],
+            "Data": [
+                {
+                    "Code": "SAGDP2N-1",
+                    "GeoFips": "10000",
+                    "GeoName": "Delaware",
+                    "TimePeriod": "2014",
+                    "CL_UNIT": "Millions of current dollars",
+                    "UNIT_MULT": "6",
+                    "DataValue": "66,891.0"
+                },
+                {
+                    "Code": "SAGDP2N-1",
+                    "GeoFips": "10000",
+                    "GeoName": "Delaware",
+                    "TimePeriod": "2015",
+                    "CL_UNIT": "Millions of current dollars",
+                    "UNIT_MULT": "6",
+                    "DataValue": "70,969.4"
+                },
+                {
+                    "Code": "SAGDP2N-1",
+                    "GeoFips": "10000",
+                    "GeoName": "Delaware",
+                    "TimePeriod": "2016",
+                    "CL_UNIT": "Millions of current dollars",
+                    "UNIT_MULT": "6",
+                    "DataValue": "69,549.7"
+                },
+                {
+                    "Code": "SAGDP2N-1",
+                    "GeoFips": "10000",
+                    "GeoName": "Delaware",
+                    "TimePeriod": "2017",
+                    "CL_UNIT": "Millions of current dollars",
+                    "UNIT_MULT": "6",
+                    "DataValue": "70,774.8"
+                },
+                {
+                    "Code": "SAGDP2N-1",
+                    "GeoFips": "10000",
+                    "GeoName": "Delaware",
+                    "TimePeriod": "2018",
+                    "CL_UNIT": "Millions of current dollars",
+                    "UNIT_MULT": "6",
+                    "DataValue": "73,481.3"
+                }
+            ],
+            "Notes": {
+                "NoteRef": " ",
+                "NoteText": "Last updated: November 7, 2019-- revised statistics for 2014-2018."
+            }
+        }
+    }
+}
