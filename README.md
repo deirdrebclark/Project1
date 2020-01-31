@@ -6,14 +6,19 @@ Research Questions: What type of pollutants are predominantly found in these are
 
 Datasets to be Used: 
 https://www.data.gov/ecosystems/
+https://https://oceanconservancy.org/
+https://www.noaa.gov/
+https://Census.gov
+https://apps.bea.gov/API/signup/index.cfm
+https://www.epa.gov/frs/epa-state-combined-csv-download-files
+
+
 
 Rough Breakdown of Tasks
-D - Pull the Data & Clean
-Kaleah - Analyzing/Graphing Data & Presenting the Data
-Enjoli - Presenting and Clean the Data
-Saeeda - Clean Data and build graphs
-Chelsea - Analyze the Data
-Kareem - Analyze the Data & Present the Data
+D  & Enjoli - Pull and analyze the data on the laws and regulations in each coastal state
+Kaleah - Pull and analyze the census data for the coastal states
+Saeeda & Kareem - Pull and analyze the point and non-point pollutants in each state along the coasts
+Chelsea - Pull and analyze the GDP data for each coastal state
 
 Project Timeline
 By Saturday, Jan 25th : Get the Data
@@ -25,17 +30,17 @@ By Feb 4th : Presentation
 
 
 Hypothesis:
-The west coast has more non-point pollution, and the east coast has more point-pollution, based on the density of oil rigs and oil spills in these regions, based on the last 5 years. The west coast has more non-point pollution based on coastal population density and GDP and environmental regulations.
+The west coast states have more non-point pollution, and the east coast states have more point-pollution, based on the density of oil rigs and oil spills in these regions from 2014 to 2018. The states along the west coast have more non-point pollution based on coastal population density and GDP and environmental regulations.
 
 Leading Questions:
-How much non-point and point pollution is on each coast?
+How much non-point and point pollution is on each coast by state that could impact these reults?
 Non-point - oceanconservancy website
 Point - NOAA
 
-What is the population density for each coast?
+What is the population density for each state along the coasts that could impact these reults?
 	Census.gov
 
-What is the total estimated GDP for each coast?
+What is the total estimated GDP for each state along the coasts that could impact these reults?
 	https://apps.bea.gov/API/signup/index.cfm
 
 What states have environmental laws or regulations that could impact these results?
