@@ -6,17 +6,17 @@ Hypothesis:
 The west coast states have more non-point pollution, and the east coast states have more point-pollution, based on the density of oil rigs and oil spills in these regions from 2014 to 2018. The states along the west coast have more non-point pollution based on coastal population density and GDP and environmental regulations.
 
 Leading Questions:
-How much non-point and point pollution is on each coast by state that could impact these reults?
-Non-point - oceanconservancy website
-Point - NOAA
+1.  How much non-point and point pollution is on each coast by state that could impact these reults?
+	Non-point - oceanconservancy website
+	Point - NOAA
 
-What is the population density for each state along the coasts that could impact these reults?
+2.  What is the population density for each state along the coasts that could impact these reults?
 	Census.gov
 
-What is the total estimated GDP for each state along the coasts that could impact these reults?
+3.  What is the total estimated GDP for each state along the coasts that could impact these reults?
 	https://apps.bea.gov/API/signup/index.cfm
 
-What states have environmental laws or regulations that could impact these results?
+4.  What states have environmental laws or regulations that could impact these results?
 
 
 Research Questions: What type of pollutants are predominantly found in these areas? What are the source of the top two/three primary sources of pollution in these areas? How long has pollutants collected in these regions (specify trends in changes)? What can we do to help truncate the number of pollution built up?
@@ -28,7 +28,6 @@ https://www.noaa.gov/
 https://Census.gov
 https://apps.bea.gov/API/signup/index.cfm
 https://www.epa.gov/frs/epa-state-combined-csv-download-files
-
 
 
 Rough Breakdown of Tasks
